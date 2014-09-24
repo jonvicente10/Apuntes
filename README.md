@@ -1,2 +1,1 @@
-Apuntes
-=======
+Informacion de todo un poco
