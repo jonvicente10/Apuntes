@@ -1,0 +1,18 @@
+Para instalar eclipse en java:
+
+
+1.- Descargar el paquete eclipse.tar
+
+2.- Extraerlo en directorio /opt/ por ejemplo.
+
+3.- Editar /opt/eclipse/eclipse.ini y añadir estas lineas:
+Debajo de openFile
+
+-vm
+/usr/local/jdk1.8.0_20/bin/
+
+4.- Guardar archivo.
+
+5.- Ejecutar el comando: export PATH=$PATH:/opt/eclipse
+
+6.- En la terminal ejecutar "eclipse".
